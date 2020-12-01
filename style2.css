@@ -1,0 +1,77 @@
+
+body {background-image: url('z.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  #c{
+    text-align: right;
+  }
+  a:hover {
+      font-size:150;
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+h1{
+font-size :300%;
+text-align:center;
+}
+h2{
+    font-size :200%;
+    text-align:left;
+}
+h3{
+    font-size :200%;
+    text-align:left;
+}
+#h4{
+font-size:100;
+color:rgb(238, 4, 4);
+text-align: right;
+
+
+}
+
+p1{
+    font-size:100% ;
+    background-color : rgb(0, 0, 0);
+    font-family : courier;
+    color :rgb(207, 55, 16);
+    text-align:left;}
+p2{
+    font-size:100%; 
+    background-color : rgb(7, 204, 253);
+        font-family : courier;
+    color : red;
+    text-align:left;}
+    p3{
+     font-size:100%;   
+    background-color : rgb(0, 252, 34);
+        font-family : courier;
+    color : red;
+    text-align:center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
